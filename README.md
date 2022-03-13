@@ -1,4 +1,4 @@
-Hotel Booking Demand Analysis Cancelation Prediction.
+# Hotel Booking Demand Analysis Cancelation Prediction.
 
 •	Developed comprehensive & in-depth descriptive analytics and insight from both the hotel owner and guest perspective.
 
